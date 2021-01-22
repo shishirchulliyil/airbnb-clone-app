@@ -28,4 +28,4 @@ This project is a simplified front end clone of Airbnb. It was created with Reac
 
 ### Video Walktrough
 
-![](https://github.com/shishirchulliyil/airbnb-clone-app/blob/captured (1).gif?raw=true)
+![](https://github.com/shishirchulliyil/airbnb-clone-app/blob/airbnb-clone.gif?raw=true)
